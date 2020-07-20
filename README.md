@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Kiran Kamath currently working as Software Developer , I have keen interest in developing stuffs , so I enjoy learning and sharing.
-[![Kiran's github stats](https://github-readme-stats.vercel.app/api?username=k96white)](https://github.com/k96white/github-readme-stats)
+[![Kiran's github stats](https://github-readme-stats.vercel.app/api?username=k96white&show_icons=true&theme=radical)](https://github.com/k96white/github-readme-stats)
 
 - 🔭 I’m currently working on ReactJs , NodeJS , Java , JavaScript
 - 🌱 I’m currently learning  ReactJS , Redux
